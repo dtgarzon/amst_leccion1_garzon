@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amst_l1_Garzon_espolservicios</string>
+    <string name="toastMsgAcamedico">Horario de atención: Lun-Vier de 8:00 am a 6:00 pm </string>
+    <string name="toastMsgBienestar">Horario de atención: Lun-Vier de 8:00 am a 6:00 pm </string>
+    <string name="toastMsgSidweb">Horario de atención: Lun-Vier de 8:00 am a 6:00 pm </string>
+    <string name="toastMsgVinculos">Horario de atención: Lun-Vier de 8:00 am a 6:00 pm </string>
+</resources>
